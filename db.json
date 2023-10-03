@@ -1,0 +1,124 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "gemy",
+      "transaction": [
+        {
+          "day": 1,
+          "income": 12000,
+          "withdraw": 5000,
+          "netTransaction": 7000
+        },
+        { "day": 2, "income": 8700, "withdraw": 200, "netTransaction": 8500 },
+        {
+          "day": 3,
+          "income": 14000,
+          "withdraw": 2000,
+          "netTransaction": 12000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "mohamed",
+      "transaction": [
+        {
+          "day": 1,
+          "income": 4000,
+          "withdraw": 5400,
+          "netTransaction": -1400
+        },
+        { "day": 2, "income": 2100, "withdraw": 200, "netTransaction": 1900 },
+        { "day": 3, "income": 600, "withdraw": 1200, "netTransaction": -600 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ali",
+      "transaction": [
+        { "day": 1, "income": 0, "withdraw": 3500, "netTransaction": -3500 },
+        {
+          "day": 2,
+          "income": 16000,
+          "withdraw": 4560,
+          "netTransaction": 11440
+        },
+        { "day": 3, "income": 17000, "withdraw": 9000, "netTransaction": 8000 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "fathy",
+      "transaction": [
+        { "day": 1, "income": 400, "withdraw": 1000, "netTransaction": -600 },
+        { "day": 2, "income": 6500, "withdraw": 2680, "netTransaction": 3820 },
+        { "day": 3, "income": 10000, "withdraw": 1900, "netTransaction": 8100 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "karim",
+      "transaction": [
+        { "day": 1, "income": 4300, "withdraw": 2200, "netTransaction": 2100 },
+        { "day": 2, "income": 2000, "withdraw": 2000, "netTransaction": 0 },
+        { "day": 3, "income": 0, "withdraw": 600, "netTransaction": -600 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "kamal",
+      "transaction": [
+        { "day": 1, "income": 200, "withdraw": 4000, "netTransaction": -3800 },
+        {
+          "day": 2,
+          "income": 18000,
+          "withdraw": 2900,
+          "netTransaction": 15100
+        },
+        { "day": 3, "income": 2450, "withdraw": 9000, "netTransaction": -6550 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ramadan",
+      "transaction": [
+        {
+          "day": 1,
+          "income": 25000,
+          "withdraw": 12500,
+          "netTransaction": 12500
+        },
+        { "day": 2, "income": 200, "withdraw": 430, "netTransaction": -230 },
+        { "day": 3, "income": 6000, "withdraw": 2000, "netTransaction": 4000 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ibrahim",
+      "transaction": [
+        { "day": 0, "income": 2000, "withdraw": 450, "netTransaction": 1550 },
+        { "day": 1, "income": 4000, "withdraw": 1000, "netTransaction": 3000 },
+        { "day": 2, "income": 5000, "withdraw": 100, "netTransaction": 4900 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "gaber",
+      "transaction": [
+        { "day": 1, "income": 350, "withdraw": 1000, "netTransaction": -650 },
+        { "day": 2, "income": 6000, "withdraw": 120, "netTransaction": 5880 },
+        { "day": 3, "income": 2500, "withdraw": 0, "netTransaction": 2500 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "eslam",
+      "transaction": [
+        { "day": 1, "income": 900, "withdraw": 1000, "netTransaction": -100 },
+        { "day": 2, "income": 400, "withdraw": 4000, "netTransaction": -3600 },
+        { "day": 3, "income": 0, "withdraw": 0, "netTransaction": 0 }
+      ]
+    }
+  ]
+}
